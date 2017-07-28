@@ -1,5 +1,5 @@
 ### Authors
-Both the code for linear segmentation and Matlab GUI were developed by A.Sosa-Costa and C. Manzo in 2016 (last modification Jan/2017)
+Both the code for linear segmentation and Matlab GUI were developed by A.Sosa-Costa and C. Manzo in 2016 (last modification Jan-2017)
 
 
 # PLANT
