@@ -1,6 +1,9 @@
 # PLANT
 Matlab GUI to reconstruct noisy trajectory composed by consecutive linear regions of various duration and slope. The algorithm is composed by two main sequential blocks, the first of which (WINLINFIT) recursively selects a set of candidate change points associated to a potential variation in the slope by means of least square fitting and likelihood evaluation, whereas the second (MERGING) refines the number of change points by hierarchically executing a hypothesis test on adjacent segments.  The code requires an estimation of the noise standard deviation that can be obtained from calibration measurements, or estimated directly from the trace under analysis. 
 
+# Authors
+Both the code for linear segmentation and Matlab GUI were developed by A.Sosa-Costa and C. Manzo in 2016 (last modification Jan/2017)
+
 ## Getting Started
 These instructions will allow you to run the code on experimental data, or to generate a simulated dataset and then analyze it.
 
